@@ -1,4 +1,4 @@
-# who-is-drunk-and-when-in-ames
+# Who is drunk and when in Ames, Iowa?
 Project Description 
 
 This is a Datacamp project that I did to get my hands on with data manipulation and visulization in R.
